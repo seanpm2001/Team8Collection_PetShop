@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🎱️🐾️💾️ The official source repository for the Team8 Collection Pet Shop game project, a recreation of Pet Shop Story by Storm8/TeamLava.
